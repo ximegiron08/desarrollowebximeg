@@ -51,3 +51,15 @@
 margin-bottom: 20px; /* Aumenta el espacio entre los elementos de la lista */
 list-style: disc; /* Agrega viñetas a los elementos de la lista */
 }
+
+.grayText {
+  color: gray;
+} 
+
+/*estilo de la imagen*/
+.image {
+  max-width: 75%;
+  height: 50vh;
+  border-radius: 20%;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
