@@ -47,6 +47,29 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <section id="images" className={styles.infoSection}>
+        <img
+          src="perros1.jpg"
+          alt="images"
+          className={styles.image2}
+          >
+        </img>
+
+        <img
+          src="perros2.jpg"
+          alt="images"
+          className={styles.image2}
+          >
+        </img>
+
+        <img
+          src="perros3.jpg"
+          alt="images"
+          className={styles.image2}
+          >
+        </img>
+
+      </section>
     </main>
   );
 }
